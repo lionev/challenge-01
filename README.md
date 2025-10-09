@@ -1,27 +1,19 @@
-# React + TypeScript + Vite
+# To-Do
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![preview](./.github/home.png)
 
-Currently, two official plugins are available:
+## 🦾 Tecnologias
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- ViteJS
+- ReactJS
+- TypeScript
+- eslint
+- phosphor-icons
 
-## Expanding the ESLint configuration
+## ⚙️ Sobre o projeto
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+- Foi feita uma aplicação junto a NLW AI da RocketSeat que visa usar o Xenova de inteligência artificial para baixar vídeos dos shorts, converter para áudio e fazer a transcrição do video e também resumo do vídeo, sendo assim conseguindo fazer resumo de todos os shorts desejados
 
-- Configure the top-level `parserOptions` property like this:
+## ❤️ Contato
 
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+julionev@gmail.com
